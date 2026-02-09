@@ -8,3 +8,5 @@ backend/.env
 frontend/.env
 npm-debug.log
 .DS_Store
+*.err
+*.out
