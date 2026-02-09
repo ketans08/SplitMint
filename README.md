@@ -1,4 +1,4 @@
-# SplitMint — Your Gateway to Karbon
+# SplitMint â€” Your Gateway to Karbon
 
 MERN prototype for group expense splitting with balances and settlements.
 
@@ -22,8 +22,6 @@ copy .env.example .env
 npm install
 npm run dev
 ```
-
-Open http://localhost:5173.
 
 ## Invite Flow
 - Add participant by email.
