@@ -28,10 +28,6 @@ npm run dev
 - If the email already has an account, it is linked immediately.
 - Otherwise a pending invite is created and will link automatically when that email registers.
 
-## MintSense (Heuristic)
-- Parse natural language into expense drafts.
-- Auto-category using keyword rules.
-- Generate group summaries and settlement narratives.
 
 ## Features
 - Email/password auth
